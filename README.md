@@ -77,4 +77,4 @@ The Sobel filters successfully detected horizontal and vertical edges in the ima
 ---
 
 ## Author
-Aalya Hussian Almusabeh
+Aalya Hussain Almusabeh
